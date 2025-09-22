@@ -1,0 +1,12 @@
+id_venda,produto,quantidade,preco_unitario,data_venda
+1,Notebook,2,3500.00,2025-09-01
+2,Mouse,5,80.50,2025-09-02
+3,Teclado,3,120.00,2025-09-03
+4,Monitor,1,1100.00,2025-09-04
+5,Impressora,1,900.00,2025-09-05
+6,Pen Drive,10,35.90,2025-09-06
+7,Cadeira Gamer,2,850.00,2025-09-07
+8,Webcam,4,150.00,2025-09-08
+9,Headset,3,220.00,2025-09-09
+10,Mousepad,6,25.00,2025-09-10
+11,Cabo HDMI,7,40.00,2025-09-11
